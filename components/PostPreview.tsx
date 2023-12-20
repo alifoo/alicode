@@ -2,19 +2,13 @@ import Link from "next/link";
 import { PostMetadata } from "./PostMetadata";
 
 const PostPreview = (props: PostMetadata) => {
-  return (
-    <div
-      className="border border-slate-300 p-4 rounded-md shadow-sm
-    bg-white"
-    >
-      <p className="text-sm text-slate-400">{props.date}</p>
-
+    return <div className="border hover:bg-zinc-100 border-zinc-100 p-3 rounded-r-lg shadow-md bg-white">
       <Link href={`/posts/${props.slug}`}>
-        <h2 className=" text-violet-600 hover:underline mb-4">{props.title}</h2>
+        <h2 className="font-bold text-zinc-600 hover:underline text-4x1">{props.title}</h2>
       </Link>
-      <p className="text-slate-700">{props.subtitle}</p>
+      <p className="text-xs text-zinc-600">{props.subtitle}</p>
+      <p className="text-xs text-zinc-400">{props.date}</p>
     </div>
-  );
 };
 
 export default PostPreview;
