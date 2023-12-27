@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Achieve more, study less",
+    "date": "2023-12-18",
+    "subtitle": "Learn how to be more productive in your studies using less time",
+    "slug": "achieve-more"
+  },
+  {
+    "title": "Getting Started with AWS",
+    "date": "2020-12-27",
+    "subtitle": "Create an AWS account and set up CLI/SDK access. hgasdfgkdfgadsjgadskhgadsgsdgfsdgsdgsfdgs",
+    "slug": "aws-quickstart"
+  },
+  {
+    "title": "compsci-journals",
+    "date": "2023-12-18",
+    "subtitle": "Check computer science journals",
+    "slug": "computer-science-journals"
+  },
+  {
+    "title": "cs50 notes",
+    "date": "2023-12-18",
+    "subtitle": "These are my week 1 notes",
+    "slug": "cs50"
+  },
+  {
+    "title": "Using AI to generate poetry",
+    "date": "2021-08-27",
+    "subtitle": "I used GPT-3 to generate poetry and other creative content.",
+    "slug": "gpt-3-generated-poetry"
+  },
+  {
+    "title": "Building a QR code micro-app",
+    "date": "2021-08-14",
+    "subtitle": "Build a serverless 'hello-world' QR code app with Python and AWS.",
+    "slug": "qr-code-micro-app"
+  },
+  {
+    "title": "Create retro games with PICO-8",
+    "date": "2020-12-19",
+    "subtitle": "8-bit games are a great way to learn and expand your portfolio.",
+    "slug": "retro-games-with-pico-8"
+  },
+  {
+    "title": "Building a serverless SaaS product",
+    "date": "2021-07-12",
+    "subtitle": "A full-stack SaaS project with authentication and payments.",
+    "slug": "saas-starter-app"
+  },
+  {
+    "title": "Wolfhunter: A PICO-8 RPG",
+    "date": "2020-12-22",
+    "subtitle": "Implementing Pokemon-like combat mechanics in PICO-8.",
+    "slug": "wolfhunter"
+  }
+]

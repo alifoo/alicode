@@ -1,7 +1,8 @@
 ---
-title: "compsci-journals"
-subtitle: "Check computer science journals"
+title: "Computer Science Journals"
+subtitle: "Replace social media by reading these compsci journals."
 date: "2023-12-18"
+color: '#fb923c'
 ---
 
 

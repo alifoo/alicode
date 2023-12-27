@@ -2,6 +2,7 @@
 title: "Achieve more, study less"
 subtitle: "Learn how to be more productive in your studies using less time"
 date: "2023-12-18"
+color: '#bef264'
 ---
 
 
