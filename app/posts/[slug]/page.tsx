@@ -26,6 +26,7 @@ const PostPage = (props: any) => {
       <div className="my-12 mx-2">
         <h1 className="text-4xl text-slate-600 font-bold">{post.data.title}</h1>
         <p className="text-slate-400 mt-2">{post.data.date}</p>
+        <p className="text-slate-400">{post.data.subtitle}</p>
       </div>
 
       <article className="prose mx-2">
