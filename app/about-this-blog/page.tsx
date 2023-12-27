@@ -10,17 +10,17 @@ const About = () => {
     <div className="grid py-6">
       <h1 className="font-bold text-zinc-600 truncate px-2 py-2">About this blog</h1>
 
-      <div className="grid grid-cols-2 bg-white p-2">
+      <div className=" bg-white p-2">
         <div className="">
           <h1 className="font-bold text-zinc-600 truncate px-4 py-2">Concept of a Zettelkasten</h1>
           <p className=" text-zinc-600 px-4 py-2">In order to explain what this blog is about, first is essential to explain the concept of a Zettelkasten. Zettelkasten translates to "slip box" in English. It's a note-taking and knowledge management system. The term is associated with the method developed by a German sociologist Niklas Luhmann. The Zettelkasten system is designed to help individuals organize, connect, and develop ideas.</p>
         </div>
-        <div className=" hover:bg-zinc-100 rounded-md shadow-md max-h-60">
+        <div className=" hover:bg-zinc-100 rounded-md">
           <Link href="https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125">
             <Image
             src={zettelkasten}
             alt="Picture of a slip box."
-            className="rounded-md"
+            className="rounded-md shadow-md"
             />
           </Link>
         </div>
