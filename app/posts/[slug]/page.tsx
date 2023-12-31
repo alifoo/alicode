@@ -29,7 +29,7 @@ const PostPage = (props: any) => {
         <p className="text-zinc-500 pb-4">{post.data.subtitle}</p>
       </div>
 
-      <article className="prose mx-2 p-2 bg-neutral-400 rounded-md">
+      <article className="prose mx-2 p-2 dark:bg-neutral-400 rounded-md">
         <Markdown>{post.content}</Markdown>
       </article>
     </div>
