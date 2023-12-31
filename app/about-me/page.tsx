@@ -6,8 +6,8 @@ const About = () => {
   
   
   return (
-    <div className="py-12">
-      <h1 className="font-bold text-zinc-600 truncate px-2 py-2 text-lg dark:text-violet-600">About me</h1>
+    <div className="py-6">
+      <h1 className="font-bold text-zinc-600 truncate p-4 dark:text-violet-600 text-4xl">About me</h1>
 
       <div className="p-2 grid grid-cols-1 md:grid-cols-2 items-center bg-white dark:bg-neutral-900 rounded-lg">
         <div className="rounded-md p-1">

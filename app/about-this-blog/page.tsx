@@ -8,7 +8,7 @@ const About = () => {
   
   return (
     <div className="grid py-6">
-      <h1 className="font-bold text-zinc-600 truncate px-2 py-2 dark:text-violet-600 text-lg">About this blog</h1>
+      <h1 className="font-bold text-zinc-600 truncate p-4 dark:text-violet-600 text-4xl">About this blog</h1>
 
       <div className=" bg-white p-2 dark:bg-neutral-900">
         <div className="pb-2">
