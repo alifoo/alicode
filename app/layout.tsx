@@ -26,7 +26,7 @@ export default function RootLayout({
           <h1 className="text-white font-bold inline-block text-left hover:underline items-center pb-0 dark:text-violet-500">alicode</h1>
         </Link>
         <h1 className="text-white items-center font-bold inline-block text-left ml-1 transition-width duration-200 delay-200 ease-in-out w-0 md:group-hover:w-4 truncate group-hover:whitespace-normal dark:text-zinc-200">=</h1>
-        <p className="text-zinc-300 flex md:items-center text-sm transition-width max-h-4 duration-300 delay-300 ease-in-out w-fit md:w-0 md:group-hover:w-96 truncate group-hover:text-clip dark:text-zinc-200 pb-7 md:pb-0">
+        <p className="text-zinc-300 flex md:items-center text-xs md:text-sm transition-width max-h-4 duration-300 delay-300 ease-in-out w-fit md:w-0 md:group-hover:w-96 truncate group-hover:text-clip dark:text-zinc-200 pb-7 md:pb-0">
           notes of an aspiring computer scientist
         </p>
         
