@@ -19,7 +19,7 @@ const HomePage = () => {
       <p className="text-xs md:w-fit md:h-fit px-3 mb-2 md:mb-0 inline-block truncate py-2 md:py-0 dark:text-zinc-200">reference note</p>
   
       <div className="color-square rounded inline-block ring-offset-2 ring-zinc-400 ring-1 dark:ring-violet-500 dark:ring-2 dark:ring-offset-zinc-700" style={{ backgroundColor: '#c4b5fd', width: '16px', height: '16px' }}></div>
-      <p className="text-xs md:w-fit md:h-fit px-3 mb-2 md:mb-0 inline-block truncate pt-2 md:py-0 dark:text-zinc-200">daily note</p>
+      <p className="text-xs md:w-fit md:h-fit px-3 mb-0 md:mb-0 inline-block truncate pt-2 md:py-0 dark:text-zinc-200">daily note</p>
     </div>
   );
   
