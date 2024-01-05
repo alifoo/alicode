@@ -2,7 +2,7 @@ import "../styles/globals.css";
 import type { Metadata } from 'next'
 import { Space_Mono, Chivo_Mono } from 'next/font/google'
 import Link from "next/link";
-import { FaGithub, FaLinkedin, FaLightbulb } from 'react-icons/fa';
+import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import ThemeToggle from "../components/ThemeToggle";
 
 const space_mono = Space_Mono({ weight: ['400', '700'], subsets: ['latin'] })
@@ -32,6 +32,7 @@ export default function RootLayout({
         
   
         <div className="md:ml-auto flex flex-row">
+          
           <ThemeToggle />
           <Link href="https://github.com/alifoo">
             <FaGithub className="mr-2" size={12} color="white" />

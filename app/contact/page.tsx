@@ -13,6 +13,7 @@ const About = () => {
         <Link href="https://www.linkedin.com/in/alisson-ayres/"><p className=" text-zinc-600 pl-6 hover:underline display: block dark:text-zinc-200">Linkedin</p></Link>
         <Link href="https://github.com/alifoo"><p className=" text-zinc-600 pl-6 hover:underline display: block dark:text-zinc-200">Github</p></Link>
       </div>
+      
     </div>
   );
 };

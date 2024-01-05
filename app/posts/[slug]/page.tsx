@@ -34,9 +34,19 @@ const PostPage = (props: any) => {
     className="dark:text-zinc-200"
     options={{
       overrides: {
+        strong: {
+          props: {
+            className: 'dark:text-zinc-200 font-bold',
+          },
+        },
+        a: {
+          props: {
+            className: 'dark:text-violet-500 font-bold',
+          },
+        },
         code: {
           props: {
-            className: 'dark:text-zinc-200',
+            className: 'dark:text-violet-500',
           },
         },
         h1: {

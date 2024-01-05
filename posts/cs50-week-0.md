@@ -1,7 +1,7 @@
 ---
 title: "CS50: Week 0 notes"
 subtitle: "Harvard's Introduction to Computer science week 0 notes."
-date: "2023-12-18"
+date: "2024-01-04"
 color: '#7dd3fc'
 ---
 
