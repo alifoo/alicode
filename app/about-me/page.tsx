@@ -14,7 +14,7 @@ const About = () => {
           <Image
            src={ali}
            alt="Picture of Alisson Ayres, the owner of the blog."
-           className="rounded-md shadow-lg ring-offset-2 ring-zinc-300 ring-2 dark:ring-offset-zinc-800 dark:ring-zinc-700 dark:ring-4"
+           className="rounded-full shadow-lg ring-offset-2 ring-2 ring-zinc-300 dark:ring-offset-zinc-800 dark:ring-zinc-700"
           />
         </div>
         <div className="">

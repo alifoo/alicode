@@ -26,12 +26,12 @@ const PostPage = (props: any) => {
       <div className="my-12 mx-2">
         <h1 className="text-4xl text-zinc-700 font-bold dark:text-violet-600">{post.data.title}</h1>
         <p className="text-zinc-400 py-4">{post.data.date}</p>
-        <p className="text-zinc-500 pb-4 dark:text-zinc-400">{post.data.subtitle}</p>
+        <p className="text-zinc-500 dark:text-zinc-400">{post.data.subtitle}</p>
       </div>
 
       <article className="prose mx-2 p-2 dark:bg-neutral-900 rounded-md mdx-content">
   <Markdown
-    className="dark:text-zinc-200"
+    className="dark:text-zinc-200 m-4"
     options={{
       overrides: {
         strong: {

@@ -4,7 +4,7 @@ subtitle: "Use this cheatsheet as your reference for basic JavaScript as you kee
 date: "2024-01-04"
 color: '#fb923c'
 ---
-## Variables and Data Types
+# Variables and Data Types
 
 ### Variables
 ```javascript

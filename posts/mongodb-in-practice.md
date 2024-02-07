@@ -4,7 +4,8 @@ subtitle: "Learn the basics of MongoDB, a flexible and easily scalable NoSQL dat
 date: "2024-01-04"
 color: '#7dd3fc'
 ---
-## What is MongoDB?
+
+# What is MongoDB?
 
 MongoDB is a database. More specifically, a document-oriented one. We call it a NoSQL database and it's designed for scalability.
 
